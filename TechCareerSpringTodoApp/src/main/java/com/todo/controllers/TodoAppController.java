@@ -111,10 +111,6 @@ public class TodoAppController {
 		System.out.println("Deleted done tasks");
 		return "redirect:/";
 	}
-
-
-	// Diğer metodlar...
-
 	// Endpoint to display only low priority tasks on the index page.
 	@GetMapping("/showLowPriority")
 	public String showLowPriority(Model model) {
