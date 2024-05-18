@@ -1,9 +1,0 @@
-com\todo\controllers\TodoRestController.class
-com\todo\repositories\TodoItemRepository.class
-com\todo\ServletInitializer.class
-com\todo\controllers\TodoAppController.class
-com\todo\models\TodoItem.class
-com\todo\models\TodoListViewModel.class
-com\todo\TodoApplication.class
-com\todo\models\Priority.class
-com\todo\models\PriorityConverter.class
