@@ -12,7 +12,6 @@ A simple Todo list application using Spring Boot with the following options:
 - Inheritance-Interfaces-Enum structures are applied.
 - Docker for building and deploying.
 - Lombok used for creating getter/setter methods in models.
-- Servlet used to handle HTTP requests and generate responses in Java web applications. 
 
 
 To build and run the application:
